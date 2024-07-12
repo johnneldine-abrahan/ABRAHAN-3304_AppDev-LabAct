@@ -1,3 +1,3 @@
 # AppDev_LabAct
 
-Please debug first before running, Thank you!
+Please click "Debug anyway" and the output will be shown, Thank you!
