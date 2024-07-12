@@ -178,6 +178,7 @@ class EducationalBackground extends StatelessWidget{
             ],
           ),
         ),
+          Divider(),
           SizedBox(height: 10),
           Row(
             children: [
@@ -254,6 +255,7 @@ class EducationalBackground extends StatelessWidget{
             ],
           ),
         ),
+          Divider(),
           SizedBox(height: 10),
           Row(
             children: [
