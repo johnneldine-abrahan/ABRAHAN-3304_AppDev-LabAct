@@ -275,6 +275,7 @@ class EducationalBackground extends StatelessWidget{
             ],
           ),
         ),
+          Divider(),
           SizedBox(height: 10),
           Row(
             children: [
@@ -373,6 +374,7 @@ class Skills extends StatelessWidget{
             ],
           ),
         ),
+        Divider(),
         SizedBox(height: 20),
           Row(
             children: [
@@ -425,6 +427,7 @@ class Skills extends StatelessWidget{
             ],
           ),
         ),
+        Divider(),
         SizedBox(height: 20),
           Row(
             children: [
@@ -498,6 +501,7 @@ class Interests extends StatelessWidget{
             ],
           ),
         ),
+        Divider(),
         Row(
             children: [
               Icon(Icons.search, size: 18),
@@ -561,6 +565,7 @@ class ContactInformation extends StatelessWidget{
             ],
           ),
           Text('09062764530'),
+          Divider(),
           SizedBox(height: 10),
           Row(
             children: [
@@ -571,6 +576,7 @@ class ContactInformation extends StatelessWidget{
           ),
           Text('21-02497@g.batstate-u.edu.ph (G-Suite)'),
           Text('itsmeneldineeeee@gmail.com (Personal)'),
+          Divider(),
           SizedBox(height: 10,),
           Row(
             children: [
@@ -594,6 +600,7 @@ class ContactInformation extends StatelessWidget{
             ),
           ),
           ),
+          Divider(),
           SizedBox(height: 10),
           Row(
             children: [
