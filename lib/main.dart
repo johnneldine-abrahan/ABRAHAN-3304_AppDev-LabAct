@@ -153,7 +153,7 @@ class EducationalBackground extends StatelessWidget{
             children: [
               Icon(Icons.school, size: 18),
               SizedBox(width: 4),
-              Text('College', style: GoogleFonts.poppins(fontSize: 16, fontWeight: FontWeight.bold)),
+              Text('Tertiary', style: GoogleFonts.poppins(fontSize: 16, fontWeight: FontWeight.bold)),
             ],
           ),
           RichText(text: TextSpan(
